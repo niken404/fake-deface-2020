@@ -39,7 +39,7 @@ while [ $count -le $jumlah ]
 
 do
 
-printf "http://$RANDOM.$w.clarionit.in/\n" >> $output
+printf "http://$RANDOM.$w.clarionit.in\n" >> $output
 
 echo "[$count] Sedang membuat data ke $output"
 (( count++ ))
