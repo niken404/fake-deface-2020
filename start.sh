@@ -23,7 +23,7 @@ toilet -f slant "Datang" | lolcat
 figlet "$jeneng" | lolcat
 fi
 echo $yellow"++++++++++++++++++++++++++++++++"
-echo $red"+ Author===>cLZXCLc "
+echo $red"+ Author===>Niken "
 echo $cyan"+ Team===>JAWA TIMUR CYBER TEAM "
 echo $indigo"+ Version=1.0 "
 echo $yellow"++++++++++++++++++++++++++++++++"
